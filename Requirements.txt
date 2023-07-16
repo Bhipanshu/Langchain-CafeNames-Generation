@@ -1,4 +1,4 @@
-Create a secret_key file where you will keep your openAI secret key!
+Create an addition secret_key file where you will keep your openAI secret key! And then import it to your main app.py file
 
 Format of secret_key file
 
