@@ -1,0 +1,5 @@
+Create a secret_key file where you will keep your openAI secret key!
+
+Format of secret_key file
+
+openapi_key =  "sk-"
